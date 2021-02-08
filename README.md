@@ -1,2 +1,3 @@
 # College-Notice-board
-This is a website for college in which admin can insert and update notice board and student can see notice from college.
+ This is a website for college students  in which college admin can insert,
+ update & delete virtual  notice board  and student can register & login yourself & see the virtual  notice board  from the website..
